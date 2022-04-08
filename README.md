@@ -1,4 +1,8 @@
-A simple project using context
+# React Kawaaii playground using the context hook
+
+Live version available [here](https://z4g9gx.csb.app/) 
+
+## Using useContext:
 
 1. CONTEXT-FILE
 
